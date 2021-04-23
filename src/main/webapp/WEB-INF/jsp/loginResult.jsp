@@ -19,7 +19,7 @@
 		<a href="/docoTsubu/Main">つぶやき投稿・閲覧へ</a>
 	<% }else{ %>
 		<p>ログインに失敗しました</p>
-		<a　href="/docoTsubu/">TOPへ</a>
+		<a href="/docoTsubu/">TOPへ</a>
 	<% } %>
 </body>
 </html>
