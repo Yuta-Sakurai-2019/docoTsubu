@@ -16,5 +16,7 @@
 	<p>
 		<%= loginUser.getName() %>さん、ログイン中
 	</p>
+	<%= loginUser.getName() %>さん、ログイン中
+	<a href="/docoTsubu/Logout">ログアウト</a>
 </body>
 </html>
